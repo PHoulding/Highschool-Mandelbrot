@@ -1,0 +1,27 @@
+# Frame dimension title saveFormat save animate
+Frame	600	The Julia Set	gif	false	false
+# Palette type name size
+Palette	Trigonometric	trig	256
+# Fractal type xCenter yCenter delta bailout paletteName
+#Fractal	Mandelbrot	-0.75	0	1.5	256	trig
+#-------------2013 ICS3U Exam: Julia Sets---------------
+# Anderson
+#Fractal	Julia	0.38	0.36	1.6	127	trig	false
+# Houlding
+Fractal	Julia	0.285	0.01	1.6	64	trig	false
+# Knowles
+#Fractal	Julia	-0.4	0.6	1.6	127	trig	false
+# Mahjour
+#Fractal	Julia	0.3	0.48	1.6	127	trig	false
+# Ringwood
+#Fractal	Julia	-0.68	-0.35	1.6	127	trig	false
+# Ruscica
+#Fractal	Julia	-0.03	0.7	1.6	127	trig	false
+# Sansom
+#Fractal	Julia	-0.04	-0.69	1.6	127	trig	false
+#--------------------------------------------------------
+#Alternative Palette Types
+#Palette	Random	random	256
+#Palette	Grayscale	gs	256
+#Palette	NICA	nica	256
+#Palette	Enumerated	mono	1	255	255	255

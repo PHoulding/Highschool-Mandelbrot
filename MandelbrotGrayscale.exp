@@ -1,0 +1,8 @@
+Frame	600	The Mandelbrot Set	gif	false	false
+Palette	Grayscale	gs	256
+Fractal	Mandelbrot	-0.75	0	1.5	256	gs
+#Alternative Palette Types
+#Palette	Random	random	256
+#Palette	Trigonometric	trig	256
+#Palette	Enumerated	mono	2	0	0	0	255	255	255
+#Palette	NICA	nica	256

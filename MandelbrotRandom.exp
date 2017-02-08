@@ -1,0 +1,11 @@
+# Frame dimension title saveFormat save
+Frame	200	The Mandelbrot Set	gif	false	true
+# Palette type name size
+Palette	Random	random	256
+# Fractal type xCenter yCenter delta bailout paletteName
+Fractal	Mandelbrot	-0.47305281	0.53933875	1.5	2000	random
+#Alternative Palette Types
+#Palette	Trigonometric	trig	256
+#Palette	Grayscale	gs	256
+#Palette	NICA	nica	256
+#Palette	Enumerated	mono	1	255	255	255
